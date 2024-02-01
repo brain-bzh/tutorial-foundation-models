@@ -1,0 +1,12 @@
+[submodule "llama"]
+	path = llama
+	url = git@github.com:brain-bzh/llama.git
+[submodule "dino-few-shot"]
+	path = dino
+	url = git@github.com:brain-bzh/dino-few-shot.git
+[submodule "clap"]
+	path = clap
+	url = git@github.com:brain-bzh/clap.git
+[submodule "clip"]
+	path = clip
+	url = git@github.com:brain-bzh/clip.git
