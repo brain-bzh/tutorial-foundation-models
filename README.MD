@@ -2,4 +2,4 @@
 
 You'll find the intro slides and the links to each tutorial.
 
-A Youtube playlist is available [here](https://www.youtube.com/watch?v=0-pVVtLo4zY&list=PLfm_tIfDbIKvKCHs9nCXIgKFDBKpa6kdG)
+A Youtube playlist is available [here](https://www.youtube.com/watch?v=0-pVVtLo4zY&list=PLfm_tIfDbIKvKCHs9nCXIgKFDBKpa6kdG).
